@@ -1,0 +1,235 @@
+/*fontes */
+@font-face {
+   
+    font-family: 'Great Vibes';
+    
+    src: url('../fonts/Great_Vibes/Great_Vibes-Regular.ttf');
+}
+@font-face {
+   
+    font-family: 'Roboto';
+   
+    src: url('../fonts/Roboto/Roboto-Regular.ttf');
+}
+
+/*Estilo Principal */
+
+body {
+    font-family:'Roboto','Open Sans' Arial, sans-serif;
+    text-align: center;
+    margin: 0;
+   
+         /*background-image:url(1.jpg);
+           background-size: cover;
+           background-attachment:fixed;
+           background-repeat:no-repeat;*/
+}
+
+
+           
+
+
+a {
+    text-decoration: inherit;
+    text-align: center;
+    color: black;
+    text-align: center;
+    background-color: pink;
+    font-size:0.2em;
+    
+    
+    
+    
+}
+
+
+
+h1 {
+    font-family:'Great Vibes';
+    font-size: 4em; 
+    background-image: url('11.jpg');
+    background-size: cover;
+    background-position: center;
+    color: black;
+    padding: 3px 0px 3px 0px;
+    
+   
+}
+
+h1:hover {
+    color: aliceblue;
+}
+
+#principal {
+    
+    background-size: cover;
+    background-position: top;
+    color: black;
+    padding: 3px 0px 3px 0px;
+    margin: 3px 0px;
+    background-color: pink;
+}
+
+#principal h1 {
+text-shadow: #333 3px 3px 3px;
+}
+
+
+
+
+div p1 {
+     background-position: right;
+   
+    
+}
+div a{
+    font-size: 2em;
+    text-align: center;
+   
+    
+}
+div i {
+    padding: 3px 0px 3px 0px;
+    margin: 3px 0px;
+}
+
+style {
+    
+    text-align: center;
+    font-size: 2em;
+}
+img {
+    border: 1px solid grey;
+    padding: 1px;
+    
+}
+
+
+p1{
+    text-align:bottom;
+    font-size: 2em;
+    color: black;
+    background-color: pink;
+    
+   
+    
+}
+
+p2{
+    color: black;
+    font-size:1.5em; 
+    background-color: pink;
+}
+
+
+p3 {
+    color: black;
+    font-size: 1.5em;
+    text-align: center;
+    background-color: pink;
+    margin: 10px 10px;
+}
+p4{
+    color: black;
+    font-size: 1.8em;
+    text-align: center;
+    background-color: pink;
+    margin: 10px 10px;
+    
+}
+td{
+    color: black;
+    font-size: 0.8em;
+    text-align: justify;
+   
+    
+    
+ ;
+   
+    
+    
+}
+p11{
+    
+    color: black;
+    font-size: 1.2em;
+    text-align: justify;
+ 
+   
+    
+    
+}
+p12{
+     color: black;
+    font-size: 0.8em;
+    text-align: justify;
+    background-color: lavender;
+ 
+}
+p13{
+     color: black;
+    font-size: 0.8em;
+    text-align: justify;
+    background-color: lavender;
+ 
+}
+a1{
+    color: black;
+    font-size: 1.2em;
+    text-align: justify;
+    background-color:oldlace;
+}
+p15{
+     color: black;
+    font-size: 1.8em;
+    text-align: center;
+    
+
+    
+ 
+}
+p30{
+    
+    color: black;
+    font: 13em;
+    background-color: pink;
+    text-align:justify;
+   
+    
+}
+p31{
+    
+    color: black;
+    text-align: justify;
+    font-size: 1.0em;
+    
+}
+p35{
+    
+    color: deeppink;
+    text-align: center;
+    font-size: 1.5em;
+    
+}
+
+p40{
+     color: black;
+    text-align: justify;
+    font-size: 1.4em;
+    
+}
+p38{
+    
+    color: black;
+    text-align: center;
+    font-size: 1.4em;
+    
+}
+p50{
+    color: black;
+    font-size: 1.8em;
+    text-align: center;
+    background-color: pink;
+}
+#
+
